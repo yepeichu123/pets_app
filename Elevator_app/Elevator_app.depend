@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1580825712 source:f:\reseach\code\pets_app\elevator_app\main.cpp
+	<iostream>
+	"ElevatorProcedures.h"
+
+1580821817 f:\reseach\code\pets_app\elevator_app\elevatorprocedures.h
+	<vector>
+	<map>
+
+1580826176 source:f:\reseach\code\pets_app\elevator_app\elevatorprocedures.cpp
+	"ElevatorProcedures.h"
+	<iostream>
+	<algorithm>
+	<ctime>
+
