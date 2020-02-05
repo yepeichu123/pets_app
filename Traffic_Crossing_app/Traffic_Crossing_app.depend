@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1580915777 source:f:\reseach\code\pets_app\traffic_crossing_app\main.cpp
+	<iostream>
+	"TrafficCrossingProcedures.h"
+
+1580915616 f:\reseach\code\pets_app\traffic_crossing_app\trafficcrossingprocedures.h
+
+1580916835 source:f:\reseach\code\pets_app\traffic_crossing_app\trafficcrossingprocedures.cpp
+	"TrafficCrossingProcedures.h"
+	<iostream>
+	<ctime>
+
